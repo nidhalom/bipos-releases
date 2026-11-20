@@ -1,0 +1,5 @@
+# Les binaires vont dans les Releases GitHub, jamais dans le dépôt
+*.zip
+*.exe
+*.dll
+*.key
